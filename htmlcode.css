@@ -1,0 +1,41 @@
+
+nav{
+display:table-cell;
+text-align:center;
+vertical-align:middle;
+float:right;
+width:25%;
+background-color:#00004d;
+
+
+}
+nav a{
+color:white;
+
+}
+nav ol li:link{
+color:white;
+
+}
+nav ol li:hover{
+color:yellow;
+
+}
+nav ol li:visited{
+color:yellow;
+
+}
+
+body{
+
+}
+body > div > p{
+color:red;
+
+}
+body{
+}
+div{
+background-color:azure;
+width:50%;
+}
